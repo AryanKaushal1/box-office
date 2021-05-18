@@ -54,3 +54,4 @@ export const Star = styled.div`
     39% 35%
   );
 `;
+ 
