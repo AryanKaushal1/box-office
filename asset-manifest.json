@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Box-office/static/css/main.5fffadb5.chunk.css",
+    "main.js": "/Box-office/static/js/main.ef5e5377.chunk.js",
+    "main.js.map": "/Box-office/static/js/main.ef5e5377.chunk.js.map",
+    "runtime-main.js": "/Box-office/static/js/runtime-main.7cb4fcb2.js",
+    "runtime-main.js.map": "/Box-office/static/js/runtime-main.7cb4fcb2.js.map",
+    "static/js/2.379ab369.chunk.js": "/Box-office/static/js/2.379ab369.chunk.js",
+    "static/js/2.379ab369.chunk.js.map": "/Box-office/static/js/2.379ab369.chunk.js.map",
+    "index.html": "/Box-office/index.html",
+    "static/css/main.5fffadb5.chunk.css.map": "/Box-office/static/css/main.5fffadb5.chunk.css.map",
+    "static/js/2.379ab369.chunk.js.LICENSE.txt": "/Box-office/static/js/2.379ab369.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cb4fcb2.js",
+    "static/js/2.379ab369.chunk.js",
+    "static/css/main.5fffadb5.chunk.css",
+    "static/js/main.ef5e5377.chunk.js"
+  ]
+}
